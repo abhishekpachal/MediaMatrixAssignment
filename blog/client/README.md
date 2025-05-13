@@ -10,4 +10,4 @@ Then start the application
 
 `$ npm run dev`
 
-The application will run on [text](http://localhost:5173)
+The application will run on [http://localhost:5173](http://localhost:5173)
