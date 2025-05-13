@@ -1,0 +1,7 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.text-pre-line {
+    white-space: pre-line;
+}
